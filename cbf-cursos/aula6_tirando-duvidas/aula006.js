@@ -10,6 +10,6 @@ Operadores Relacionais
 */
 
 let n1=1 //numero
-let n2=2 //string
+let n2='2' //string
 
 comsole.log(n1===n2)
